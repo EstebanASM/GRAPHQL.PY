@@ -1,0 +1,8 @@
+#A modern, fast web framework for building APIs with Python based on standard Python type hints.
+fastapi
+#A lightweight ASGI server for running asynchronous Python web applications, often used with FastAPI.
+uvicorn
+#A Python library for building GraphQL APIs using Python type hints for schema definition.
+strawberry-graphql
+#A user-friendly HTTP client with a command-line interface, designed for testing and interacting with APIs.
+httpie
